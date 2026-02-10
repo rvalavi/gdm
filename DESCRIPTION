@@ -1,7 +1,7 @@
 Package: gdm
 Title: Generalized Dissimilarity Modeling
-Version: 1.6.0-8
-Date: 2025-05-13
+Version: 1.6.0-9
+Date: 2025-07-10
 Authors@R: 
     c(person("Matt", "Fitzpatrick", email="mfitzpatrick@umces.edu", 
     role = c("aut", "cre"),

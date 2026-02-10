@@ -1,10 +1,16 @@
 <!-- See http://style.tidyverse.org/news.html for advice on writing news -->
 
+# gdm 1.6.0-9
+### bug fixes
+* Fix minor bug in `gdm.varImp` function.
+
 # gdm 1.6.0-8
-* Fix ongoing minor issue with C++ code
+### bug fixes
+* Fix ongoing minor issue with C++ code.
 
 # gdm 1.6.0-7
-* Fix minor issue with C++ code
+### bug fixes
+* Fix minor issue with C++ code.
 
 # gdm 1.6.0-6
 * Incremental update to package testing scripts.
